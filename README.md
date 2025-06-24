@@ -40,10 +40,6 @@ This project was developed as part of the academic curriculum for the B.Tech Com
 - MySQL (or H2 for development)
 - RESTful API for expense management
 
-### 🌐 Deployment:
-- Frontend: Vercel
-- Backend: Deployable to Render / Railway / Heroku (as needed)
-
 ---
 
 ## ✨ Features
@@ -57,24 +53,14 @@ This project was developed as part of the academic curriculum for the B.Tech Com
 
 ---
 
-## 📸 Screenshots
-
-> *(Replace these placeholders with real screenshots)*
-
-| Dashboard | Add Expense | Mobile View |
-|-----------|-------------|-------------|
-| ![Dashboard](https://via.placeholder.com/300x180?text=Dashboard+View) | ![Add](https://via.placeholder.com/300x180?text=Add+Expense) | ![Mobile](https://via.placeholder.com/150x300?text=Mobile+Responsive+View) |
-
----
-
 ## 🧾 Running Locally
 
 ### 🚀 Frontend
 
 ```bash
 # Clone the repo
-git clone https://github.com/YourUsername/Expencier.git
-cd Expencier
+git clone https://github.com/AnjaliSingh0512/Springboot-Capstone-Project-Team-Tarkash.git
+cd Springboot-Capstone-Project-Team-Tarkash
 
 # Install dependencies
 npm install
@@ -97,13 +83,6 @@ spring.datasource.password=your_db_password
 # Then run:
 mvn spring-boot:run
 ```
-
----
-
-## 🚀 Live Deployment
-
-* 🔗 Frontend: [https://expencier.vercel.app](https://expencier.vercel.app/)
-* 🌐 Backend: *(Deploy on services like Render or Railway and update here)*
 
 ---
 
